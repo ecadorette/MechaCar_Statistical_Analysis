@@ -42,6 +42,5 @@ Lot 3:
 
 ![t-testLot3](https://user-images.githubusercontent.com/114450503/224573228-98b0de03-e1c2-4935-bb06-cf4d69042f73.png)
 
-#### Deliverable 4:
-##### Study Design: MechaCar vs Competition
+- When reviewing the p-value of the results above, only Lot3 has a value below 0.05 indicating significance. Lot3 is the only one that we can say is statistically difference from the population mean of 15,000 pounds per square inch.
 
